@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.11\button.11\button.11\obj\Debug\button.11.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.11\button.11\button.11\obj\Debug\button.11.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.11\button.11\button.11\obj\Debug\button._11.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.11\button.11\button.11\obj\Debug\button._11.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.11\button.11\button.11\obj\Debug\button.11.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.11\button.11\button.11\obj\Debug\button.11.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.11\button.11\button.11\bin\Debug\button.11.exe.config
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.11\button.11\button.11\bin\Debug\button.11.exe
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.11\button.11\button.11\bin\Debug\button.11.pdb
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.11\button.11\button.11\obj\Debug\button.11.exe
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.11\button.11\button.11\obj\Debug\button.11.pdb
